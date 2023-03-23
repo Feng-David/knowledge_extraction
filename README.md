@@ -13,10 +13,10 @@
     result file: ./results/baidu/
 
 5. run NER task
-    step1: cd unsupervised_ner
+    step1: cd NER
     step2: bash run.sh
     
 6. run RE task
-    step1: cd supervised_re
+    step1: cd RE
     step2: bash run.sh
 
